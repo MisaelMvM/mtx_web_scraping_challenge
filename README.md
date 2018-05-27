@@ -3,9 +3,10 @@
 ### Requirements
 
 > - Python - 3.6
-> - BeautifulSoup
-> - sys
-> - csv
+> - Labraries
+>> - BeautifulSoup
+>>- sys
+>> - csv
 
 
 
