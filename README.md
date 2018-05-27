@@ -11,5 +11,5 @@
 
 ### Getting Started
 
-> - Using the terminal command line navigate into the respository folder
+> - Using the terminal command line navigate into the repository folder
 > - Run **python amazon.py [**keywords**]**
