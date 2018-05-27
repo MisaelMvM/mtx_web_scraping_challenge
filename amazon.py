@@ -40,7 +40,7 @@ if len(keywords) > 1:
 				if item.find('sup', class_='sx-price-fractional'):
 					price = price + ',' + str(item.find('sup', class_='sx-price-fractional').text)
 
-			f.writerow([title, price, img_url, rate])
+			f.writerow([title, price, rate, img_url])
 else:
 	print('Keywords are required!')
 	print('Please refer -> \'python amazon.py [keywords]\'')
