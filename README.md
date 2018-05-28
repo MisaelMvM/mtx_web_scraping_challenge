@@ -1,4 +1,4 @@
-# mtx_web_scraping_challenge
+# MTX Web Scraping Challenge
 
 ### Requirements
 
